@@ -21,6 +21,6 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 Power BI & Shopify App Store Dataset
 
 
-**Project**(Power BI access needed to view the link below)<br>
+**Project** (Power BI access needed to view the link below)<br>
 
 [Click Here](https://app.powerbi.com/links/9krEHbu_8-?ctid=ce93940e-3941-4cfe-8621-96d0e849135e&pbi_source=linkShare)
