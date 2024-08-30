@@ -36,17 +36,14 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 \
 ***Results***<br>
 
-* Most businesses showed high critical infraction count in 2023
-* After 2023 trend lines showed sharp decline indicating not enough data
-* Wellington-Dufferin-Guelph for food category had less critical infractions than Simcoe. Both of these municipalities had high foot traffic among other municipalities
+* Weekly reviews stay the same with 4 to 5 ratings
+* Average review weigh was 5.48
+* More than half of the developers had more than 50k reviews
 
 \
 ***Recomnendation***<br>
-* Supernova should pay close attention to businesses with high critical value count
-* Supernova should find more clients in municipalities with lower critical count like Wellington-Dufferin-Guelph for food category
-* Similarly Supernova should find clients in other municipalities for other categories<br><br>
-
-
+* Apps with high review count have greater success
+* To measure success new apps should have weekly review count between 3500 to 5000<br><br> 
 
 > [!Note]
 > [Project Link](https://app.powerbi.com/links/9krEHbu_8-?ctid=ce93940e-3941-4cfe-8621-96d0e849135e&pbi_source=linkShare)
