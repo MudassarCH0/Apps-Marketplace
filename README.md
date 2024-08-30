@@ -11,7 +11,7 @@
 \
 ***Description***<br>
 
-Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The goal was to figure out what key factors that play into the success of a Shopify app.   
+Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The goal was to figure out what are the key factors that play into the success of a Shopify app.   
 
 \
 ***Tools & Dataset***<br>
