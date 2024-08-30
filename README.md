@@ -18,8 +18,8 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 
 * Tools: Power BI
 * Shopify App Store Data Dictionary
-  * _apps:_ Details of the apps on Shopify apps marketplace
-  * _apps_categories:_ Join tables to connect apps with categories
+  * apps: Details of the apps on Shopify apps marketplace
+  * apps_categories: Join tables to connect apps with categories
   * categories: Categories of the apps. Each app has multiple categories
   * reviews: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present 
  
@@ -27,11 +27,11 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 \
 ***Execution***<br>
 
-* Data Processing: explore data, backup data, filter data, DAX calculation, data visualization mockups
+* Data Processing: explore data, backup data, filter, DAX calculation, data visualization mockups
 * Key Performance Indicators (KPIs): number of apps, total reviews, average reviews, average rating, sum of rating, review per developer, developer responsiveness, App reviews count
 * Visualization: KPI card, Line Chart, Scatterplot, Bar Chart
-* Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
-  Supernova data scientist
+* Process: found types of apps that are out there, created DAX column with review weigh values, DAX column with average developer review values, new table with many-to-one, filter to
+  select review count greater than 500
 
 \
 ***Results***<br>
