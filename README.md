@@ -43,7 +43,7 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 \
 ***Recomnendation***<br>
 * Apps with high review count have greater success
-* To measure success new apps should have weekly review count between 3500 to 5000<br><br> 
+* To measure success new apps should have weekly review count between 35K to 50K<br><br> 
 
 > [!Note]
 > [Project Link](https://app.powerbi.com/links/9krEHbu_8-?ctid=ce93940e-3941-4cfe-8621-96d0e849135e&pbi_source=linkShare)
