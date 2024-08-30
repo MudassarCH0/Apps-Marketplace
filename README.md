@@ -11,12 +11,18 @@
 \
 ***Description***<br>
 
-Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. You want to figure out what key factors play into the success of a Shopify app.  
+Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The goal was to figure out what key factors that play into the success of a Shopify app.   
 
 \
 ***Tools & Dataset***<br>
 
-Power BI & Shopify App Store Dataset (dataset not included because of confidentiality and file size)
+* Tools: Power BI
+* Shopify App Store Data Dictionary
+  * _apps:_ Details of the apps on Shopify apps marketplace
+  * _apps_categories:_ Join tables to connect apps with categories
+  * categories: Categories of the apps. Each app has multiple categories
+  * reviews: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present 
+ 
 
 \
 ***Execution***<br>
