@@ -39,7 +39,7 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 * Most apps ratings were between 4 to 5 ratings with few outliners
 * Average review weigh was 5.48 
 * Apps reviews and ratings showed correlation
-* Weekly review count stayed around 25K
+* Weekly review count stayed around 25K<br>
 
   ![image](https://github.com/user-attachments/assets/8195736f-cf27-444c-9b1d-49662891d00a)
 
