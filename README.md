@@ -2,11 +2,11 @@
 ***Table of Contents***<br>
 
 * Description
-* Tools & Dataset
+* Tools & Data
 * Execution
-* Results
+* Result
 * Recommenation
-* Link  
+* Project Link  
 
 \
 ***Description***<br>
@@ -14,10 +14,11 @@
 Project involved review for landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The goal was to figure out what are the key factors that play into the success of a Shopify app.   
 
 \
-***Tools & Dataset***<br>
+***Tools & Data***<br>
 
-* Tools: Power BI
-* Shopify App Store Data Dictionary
+* Tools
+  * Power BI
+* Data
   * apps: Details of the apps on Shopify apps marketplace
   * apps_categories: Join tables to connect apps with categories
   * categories: Categories of the apps. Each app has multiple categories
@@ -34,7 +35,7 @@ Project involved review for landscape of apps on the Shopify platform, using dat
   select review count greater than 500
 
 \
-***Results***<br>
+***Result***<br>
 
 * Most apps ratings were between 4 to 5 ratings with few outliners
 * Average review weigh was 5.48
