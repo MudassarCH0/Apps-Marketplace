@@ -41,7 +41,7 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 * Apps reviews and rating showed correlation
 * Weekly review count stayed aorund 25K
 
-  ![image](https://github.com/user-attachments/assets/db8c4f24-0415-4f82-adf3-69b990ea9042)
+  ![image](https://github.com/user-attachments/assets/8195736f-cf27-444c-9b1d-49662891d00a)
 
 
 \
