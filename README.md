@@ -36,14 +36,19 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 \
 ***Results***<br>
 
-* Weekly reviews stay the same with 4 to 5 ratings
-* Average review weigh was 5.48
-* More than half of the developers had more than 50k reviews
+* Apps ratings were between 4 to 5 ratings with few outliners
+* Average review weigh was 5.48 even with low rewview apps
+* Apps reviews and rating showed correlation
+* Weekly review count stayed aorund 25K
+
+  ![image](https://github.com/user-attachments/assets/db8c4f24-0415-4f82-adf3-69b990ea9042)
+
 
 \
 ***Recomnendation***<br>
-* Apps with high review count have greater success
-* To measure success new apps should have weekly review count between 35K to 50K<br><br> 
+* Apps with 50K or more review count have greater success on the platform
+* Apps with rating count or 4 or more will be successful on the platform
+* To measure success new apps should have built-in weekly review and rating count mechanism <br><br> 
 
 > [!Note]
 > [Project Link](https://app.powerbi.com/links/9krEHbu_8-?ctid=ce93940e-3941-4cfe-8621-96d0e849135e&pbi_source=linkShare)
