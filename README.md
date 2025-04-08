@@ -53,4 +53,4 @@ Project involved review for landscape of apps on the Shopify platform, using dat
 * To measure success new apps should have built-in weekly review and rating count mechanism <br><br> 
 
 > [!Note]
-> [Project Link](https://app.powerbi.com/links/9krEHbu_8-?ctid=ce93940e-3941-4cfe-8621-96d0e849135e&pbi_source=linkShare)
+> [Project Link](No link, because viewer must be provided a link per Microsoft)
